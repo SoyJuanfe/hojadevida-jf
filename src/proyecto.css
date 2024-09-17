@@ -1,0 +1,143 @@
+.juan {
+    color: #7b241c;
+    margin-top: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: #cb4335;
+}
+
+.el-h {
+    font-size: 18px;
+}
+
+.fondo {
+    background-color: #d0d3d4;
+    height: 350px;
+    width: 700px;
+    margin: 40px auto;
+    border-radius: 20px;
+    
+}
+
+.titulo {
+    justify-content: center;
+    display: flex;
+    margin: 15px 20px;
+}
+
+.titulo- {
+    justify-content: center;
+    display: flex;
+}
+
+.certificaciones {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.educacion {
+    margin-top: 30px;
+}
+
+.botones-certifica {
+    background-color: #aed6f1 ;
+    color: black;
+    border: 1px solid;
+    width: 160px;
+    height: 150px;
+    border-radius: 50%;
+    border-color: blue;
+}
+
+.botones-certifica:hover {
+    background-color: #48c9b0;
+}
+
+.tituloss {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.tituloss1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.tituloss4 {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.juan1 {
+    margin-top: 45px;
+}
+
+.juan2 {
+    color: #9b59b6;
+    font-size: 25px;
+}
+
+.juan3 {
+    margin: 40px 0 0 25px;
+}
+
+.juan4 {
+    margin: 10px 0 0 25px;
+}
+
+.imagen {
+    width: 400px;
+}
+
+.fotos {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 17px;
+}
+
+.imgg {
+    border-radius: 15px;
+}
+
+.fondo-img {
+    background-color: #e8daef ;
+    height: 310px;
+    border-radius: 20px;
+}
+
+.fondo-img1 {
+    background-color: #e8daef ;
+    height: 650px;
+    border-radius: 20px;
+}
+
+.ultimo {
+    margin-top: 50px;
+    background-color: #d0d3d4;
+    border-radius: 30px;
+    height: 120px;
+}
+
+.ultimo1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.ultimo2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+}
+
+.distancia {
+    margin-top: 20px;
+}
